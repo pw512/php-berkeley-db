@@ -1,5 +1,5 @@
 {
-  "name": "andkom/php-berkeley-db",
+  "name": "pw512/php-berkeley-db",
   "description": "A simple Berkeley DB library for PHP.",
   "type": "library",
   "keywords": [
