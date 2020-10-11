@@ -51,7 +51,7 @@ sudo make install
 **Install composer package:**
 
 ```bash
-composer install andkom/php-berkeley-db
+composer require pw512/php-berkeley-db
 ```
 
 ## Usage
